@@ -19,4 +19,3 @@ export default class loginController {
   };
 }
 
-// Este codigo foi feito com ajuda de Julia da turma 23, pois eu estava com dengue e não conseguia produzir muito bem, tudo foi feito com ela, e não foi um copiar e colar, ela me explicou as partes importantes e eu fui acompanhando

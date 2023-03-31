@@ -29,4 +29,3 @@ class matchController {
 }
 export default matchController;
 
-// Este codigo foi feito com ajuda de Tiago Hasse da turma 24, pois eu estava com dengue e não conseguia produzir muito bem, tudo foi feito com ele, e não foi um copiar e colar, ele me explicou as partes importantes e eu fui acompanhando 100% no discord
