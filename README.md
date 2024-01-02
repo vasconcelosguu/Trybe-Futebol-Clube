@@ -44,7 +44,7 @@ Install my-project with npm
 
 ```bash
 # Clone o repositório
-  git clone git@github.com:pedrohassen/trybe-futebol-clube.git
+  git clone git@github.com:vasconcelosguu/Trybe-Futebol-Clube.git
 # Entre na pasta do repositório que você acabou de clonar:
   cd trybe-futebol-clube
 # Entre na parte de backend do projeto
